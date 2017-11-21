@@ -1,3 +1,7 @@
+---
+title: Home
+layout: default
+---
 ## A Living Collection of Loosely Organized Misc Documentation <sub><sup>(mainly Developer/IT related topics)</sub></sup>
 
 [[About This Wiki]]
